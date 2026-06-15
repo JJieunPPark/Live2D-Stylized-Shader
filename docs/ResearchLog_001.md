@@ -7,6 +7,7 @@
 기존 애니메이션풍 게임들은 캐릭터 모델에 셀 셰이딩(Cell Shading)을 적용하지만, 실제 일러스트레이터가 그린 2D 캐릭터의 명암, 하이라이트, 엔젤링, 머리카락 결 표현까지 재현하는 데에는 한계가 존재한다.
 
 본 연구는 "3D 모델이지만 2D 일러스트처럼 보이는 렌더링", "Live 2D 같은 3D"를 목표로 한다.
+
 참고(Minh Tuan Bui, Junho Kim, Yunjin Lee, 3D-look shading from contours and hatching strokes,Computers & Graphics,
 (https://www.sciencedirect.com/science/article/pii/S0097849315000734))
 ---
